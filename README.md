@@ -33,5 +33,6 @@ Welcome to my portfolio! Here, I document a summary of my projects in the tech f
 | Project Link | Area | Project Description | Tools | 
 |---|---|---|---|
 | 🖥️ [Cybercafé Digital Transformation for Operational Automation](https://github.com/NuraisyahDahiyah/Digital-Transformation-Cybercafe/tree/main) | Digital Transformation | I analysed operational challenges at a cybercafe and redesigned inventory, customer feedback, and employee reward processes using automated MIS solutions, integrating systems to streamline workflows, reduce manual errors, and improve operational efficiency and decision-making. | Business Process Analysis, SCM, CRM, HRM |
+| 💎 [NFC-Embedded Jewelry Start Up Idea](https://github.com/NuraisyahDahiyah/ETERA-Start-Up-Idea/tree/main) | Entrepreneurship | Formulated a comprehensive business plan and working hardware prototype for ETÉRA, an NFC-embedded smart jewelry startup. Conducted cross-functional strategic validation across operations, marketing, and supply chain management to design battery-free, tap-to-interact wearable hardware. | Design Thinking, Prototyping, Ideation, Business Model Canvas | 
 
 ***
