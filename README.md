@@ -4,16 +4,16 @@ Welcome to my portfolio! Here, I document a summary of my projects in the tech f
 
 ## Table of Contents
 
-- [SQL](#sql)
-- [Python](#python)
 - [Business Innovation](#business-innovation)
+- [Python](#python)
+- [SQL](#sql)
 
-# SQL 
+# Business Innovation
 
-| Project Link | Area of Analysis | Project Description | 
-|---|---|---|
-| 📊 [Funnel Analysis Case Study](https://github.com/NuraisyahDahiyah/SQL-Projects-/blob/main/Funnel%20Analysis/README.md) | Funnel analysis, data transformation | I analysed e-commerce user event data to answer business questions related to sales funnel performance, such as conversion rates across funnel stages, channel performance, customer journey times, and revenue metrics.
-| 💼 [World Layoffs Case Study](https://github.com/NuraisyahDahiyah/SQL-Projects-/blob/main/World%20Layoffs%20Analysis/world_layoffs_analysis.sql) | Data cleaning, data transformation, data analysis, EDA | Following [Alex The Analyst](https://www.youtube.com/watch?v=OT1RErkfLNQ&t=12123s) beginner-to-advanced SQL tutorial, I applied foundational and advanced SQL techniques, including CTEs and window functions, before performing data cleaning and exploratory analysis on a global layoffs dataset to identify trends across companies, industries, countries, and time periods.
+| Project Link | Area | Project Description | Tools | 
+|---|---|---|---|
+| 🖥️ [Cybercafé Digital Transformation for Operational Automation](https://github.com/NuraisyahDahiyah/Digital-Transformation-Cybercafe/tree/main) | Digital Transformation | I analysed operational challenges at a cybercafe and redesigned inventory, customer feedback, and employee reward processes using automated MIS solutions, integrating systems to streamline workflows, reduce manual errors, and improve operational efficiency and decision-making. | Business Process Analysis, SCM, CRM, HRM |
+| 💎 [NFC-Embedded Jewelry Start Up Idea](https://github.com/NuraisyahDahiyah/ETERA-Start-Up-Idea/tree/main) | Entrepreneurship | Formulated a comprehensive business plan and working hardware prototype for ETÉRA, an NFC-embedded smart jewelry startup. Conducted cross-functional strategic validation across operations, marketing, and supply chain management to design battery-free, tap-to-interact wearable hardware. | Design Thinking, Prototyping, Ideation, Business Model Canvas | 
 
 ***
 
@@ -28,11 +28,11 @@ Welcome to my portfolio! Here, I document a summary of my projects in the tech f
 
 ***
 
-# Business Innovation
+# SQL 
 
-| Project Link | Area | Project Description | Tools | 
-|---|---|---|---|
-| 🖥️ [Cybercafé Digital Transformation for Operational Automation](https://github.com/NuraisyahDahiyah/Digital-Transformation-Cybercafe/tree/main) | Digital Transformation | I analysed operational challenges at a cybercafe and redesigned inventory, customer feedback, and employee reward processes using automated MIS solutions, integrating systems to streamline workflows, reduce manual errors, and improve operational efficiency and decision-making. | Business Process Analysis, SCM, CRM, HRM |
-| 💎 [NFC-Embedded Jewelry Start Up Idea](https://github.com/NuraisyahDahiyah/ETERA-Start-Up-Idea/tree/main) | Entrepreneurship | Formulated a comprehensive business plan and working hardware prototype for ETÉRA, an NFC-embedded smart jewelry startup. Conducted cross-functional strategic validation across operations, marketing, and supply chain management to design battery-free, tap-to-interact wearable hardware. | Design Thinking, Prototyping, Ideation, Business Model Canvas | 
+| Project Link | Area of Analysis | Project Description | 
+|---|---|---|
+| 📊 [Funnel Analysis Case Study](https://github.com/NuraisyahDahiyah/SQL-Projects-/blob/main/Funnel%20Analysis/README.md) | Funnel analysis, data transformation | I analysed e-commerce user event data to answer business questions related to sales funnel performance, such as conversion rates across funnel stages, channel performance, customer journey times, and revenue metrics.
+| 💼 [World Layoffs Case Study](https://github.com/NuraisyahDahiyah/SQL-Projects-/blob/main/World%20Layoffs%20Analysis/world_layoffs_analysis.sql) | Data cleaning, data transformation, data analysis, EDA | Following [Alex The Analyst](https://www.youtube.com/watch?v=OT1RErkfLNQ&t=12123s) beginner-to-advanced SQL tutorial, I applied foundational and advanced SQL techniques, including CTEs and window functions, before performing data cleaning and exploratory analysis on a global layoffs dataset to identify trends across companies, industries, countries, and time periods.
 
 ***
