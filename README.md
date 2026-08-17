@@ -8,7 +8,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the tech f
 - [Python](#python)
 - [SQL](#sql)
 
-# Business Innovation
+## Business Innovation
 
 | Project Link | Area | Project Description | Tools | 
 |---|---|---|---|
@@ -17,7 +17,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the tech f
 
 ***
 
-# Python 
+## Python 
 
 | Project Link | Area | Project Description | Models | Libraries |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the tech f
 
 ***
 
-# SQL 
+## SQL 
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
