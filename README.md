@@ -32,7 +32,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the tech f
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 📊 [E-Commerce Sales Funnel Analysis](https://github.com/NuraisyahDahiyah/SQL-Projects-/blob/main/Funnel%20Analysis/README.md) | Funnel analysis, data transformation | I analysed e-commerce user event data to answer business questions related to sales funnel performance, such as conversion rates across funnel stages, channel performance, customer journey times, and revenue metrics.
+| 📣 [E-Commerce Sales Funnel Analysis](https://github.com/NuraisyahDahiyah/SQL-Projects-/blob/main/Funnel%20Analysis/README.md) | Funnel analysis, data transformation | I analysed e-commerce user event data to answer business questions related to sales funnel performance, such as conversion rates across funnel stages, channel performance, customer journey times, and revenue metrics.
 | 💼 [World Layoffs Case Study](https://github.com/NuraisyahDahiyah/SQL-Projects-/blob/main/World%20Layoffs%20Analysis/world_layoffs_analysis.sql) | Data cleaning, data transformation, data analysis, EDA | Following [Alex The Analyst](https://www.youtube.com/watch?v=OT1RErkfLNQ&t=12123s) beginner-to-advanced SQL tutorial, I applied foundational and advanced SQL techniques, including CTEs and window functions, before performing data cleaning and exploratory analysis on a global layoffs dataset to identify trends across companies, industries, countries, and time periods.
 
 ***
