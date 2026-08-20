@@ -1,6 +1,6 @@
 # Dahiyah's Portfolio
 
-Welcome to my portfolio! Here, I document a summary of my projects in the tech field. 
+Welcome to my portfolio! Here, I document a summary of my projects.
 
 ## Table of Contents
 
